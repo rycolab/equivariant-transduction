@@ -2,8 +2,6 @@
 
 ## Paper
 
-TODO: Add link
-
 This repository contains code accompanying 'Equivariant Transduction through Invariant Alignment' by Jennifer C. White and Ryan Cotterell (COLING 2022).
 
 ## Requirements
