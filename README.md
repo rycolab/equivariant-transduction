@@ -25,10 +25,16 @@ Following training, the model with lowest loss on the dev set will be evaluated 
 Running `python test.py --model_path /path/to/model --scan_split SPLIT_NAME` will evaluate a model on the test set of the given split.
 
 ## Citation
-TODO
 
 ```
-Add
-proper
-citation
+@inproceedings{white-cotterell-2022-equivariant,
+    title = "Equivariant Transduction Through Invariant Alignment",
+    author = "White, Jennifer C.  and
+      Cotterell, Ryan",
+    booktitle = "Proceedings of the 29th International Conference on 
+Computational Linguistics",
+    month = oct,
+    year = "2022",
+    publisher = "International Committee on Computational Linguistics",
+}
 ```
