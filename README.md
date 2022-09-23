@@ -2,7 +2,7 @@
 
 ## Paper
 
-This repository contains code accompanying 'Equivariant Transduction through Invariant Alignment' by Jennifer C. White and Ryan Cotterell (COLING 2022).
+This repository contains code accompanying ['Equivariant Transduction through Invariant Alignment'](https://arxiv.org/pdf/2209.10926.pdf) by Jennifer C. White and Ryan Cotterell (COLING 2022).
 
 ## Requirements
 
